@@ -1,6 +1,6 @@
 <h1 align=center> Shervin Jarrahi </h1><br />
 - 👋 Hi, I’m Shervin Jarrahi (@shervin-j)<br />
-- 🧑‍💻 I’m interested in Robotics, AI, Image processing, Control, and Industry.
+- 🧑‍💻 I’m interested in Robotics, AI, Image processing, and Control.
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <a href="https://www.linkedin.com/in/shervin-jarrahi/" target="_blank">
